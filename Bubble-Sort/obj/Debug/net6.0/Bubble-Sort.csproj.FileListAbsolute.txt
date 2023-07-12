@@ -1,0 +1,15 @@
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/bin/Debug/net6.0/Bubble-Sort
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/bin/Debug/net6.0/Bubble-Sort.deps.json
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/bin/Debug/net6.0/Bubble-Sort.runtimeconfig.json
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/bin/Debug/net6.0/Bubble-Sort.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/bin/Debug/net6.0/ref/Bubble-Sort.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/bin/Debug/net6.0/Bubble-Sort.pdb
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/obj/Debug/net6.0/Bubble-Sort.csproj.AssemblyReference.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/obj/Debug/net6.0/Bubble-Sort.GeneratedMSBuildEditorConfig.editorconfig
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/obj/Debug/net6.0/Bubble-Sort.AssemblyInfoInputs.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/obj/Debug/net6.0/Bubble-Sort.AssemblyInfo.cs
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/obj/Debug/net6.0/Bubble-Sort.csproj.CoreCompileInputs.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/obj/Debug/net6.0/Bubble-Sort.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/obj/Debug/net6.0/ref/Bubble-Sort.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/obj/Debug/net6.0/Bubble-Sort.pdb
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Bubble-Sort/obj/Debug/net6.0/Bubble-Sort.genruntimeconfig.cache
