@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            int[] numbers = { 29, 10, 14, 37, 14 };
+            int[] numbers = { 52, 8, 12, 94, 26, 8, 5, 7 };
 
             BubbleSort sort = new BubbleSort();
             int[] sortedNumbers = sort.Bubble_Sort(numbers);
