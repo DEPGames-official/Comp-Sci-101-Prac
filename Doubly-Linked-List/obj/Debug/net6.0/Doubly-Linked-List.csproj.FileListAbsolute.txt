@@ -1,0 +1,15 @@
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/bin/Debug/net6.0/Doubly-Linked-List
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/bin/Debug/net6.0/Doubly-Linked-List.deps.json
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/bin/Debug/net6.0/Doubly-Linked-List.runtimeconfig.json
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/bin/Debug/net6.0/Doubly-Linked-List.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/bin/Debug/net6.0/ref/Doubly-Linked-List.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/bin/Debug/net6.0/Doubly-Linked-List.pdb
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/obj/Debug/net6.0/Doubly-Linked-List.csproj.AssemblyReference.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/obj/Debug/net6.0/Doubly-Linked-List.GeneratedMSBuildEditorConfig.editorconfig
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/obj/Debug/net6.0/Doubly-Linked-List.AssemblyInfoInputs.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/obj/Debug/net6.0/Doubly-Linked-List.AssemblyInfo.cs
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/obj/Debug/net6.0/Doubly-Linked-List.csproj.CoreCompileInputs.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/obj/Debug/net6.0/Doubly-Linked-List.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/obj/Debug/net6.0/ref/Doubly-Linked-List.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/obj/Debug/net6.0/Doubly-Linked-List.pdb
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Doubly-Linked-List/obj/Debug/net6.0/Doubly-Linked-List.genruntimeconfig.cache

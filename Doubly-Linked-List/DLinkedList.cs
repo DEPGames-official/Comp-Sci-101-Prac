@@ -1,73 +1,65 @@
-using System.Runtime.InteropServices;
+using System.Globalization;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Singly_Linked_List
+namespace Doubly_Linked_List
 {
-    public class SLinkedList<T>
+    public class DLinkedList<T>
     {
         Node<T>? head = null;
+        Node<T>? tail = null;
 
         public void AddBeginning(T data)
         {
             Node<T> newNode = new Node<T>(data);
+
+            if (head == null)
+            {
+                this.head = newNode;
+                tail = newNode;
+                return;
+            }
+
+            head.previous = newNode;
             newNode.next = this.head;
             this.head = newNode;
+
+
 
         }
 
         public void AddEnd(T data)
         {
             Node<T> newNode = new Node<T>(data);
-            Node<T>? currentPlace = head;
 
-            try
-            {
-                while (currentPlace.next != null)
-                {
-                    currentPlace = currentPlace.next;
-                }
-
-                currentPlace.next = newNode;
-            }
-            catch (System.NullReferenceException)
+            if (head == null)
             {
                 AddBeginning(data);
+                return;
             }
 
+            newNode.previous = tail;
+            tail.next = newNode;
 
+            tail = newNode;
 
         }
 
         public void DeleteFront()
         {
+            head.next.previous = null;
             head = head.next;
         }
 
         public void DeleteBack()
         {
-            Node<T>? previousPlace;
-            Node<T>? currentPlace = head;
-
-            try
-            {
-                while (currentPlace.next.next != null)
-                {
-                    currentPlace = currentPlace.next;
-                }
-
-                currentPlace.next = null;
-            }
-            catch (System.NullReferenceException)
-            {
-                DeleteFront();
-            }
+            tail.previous.next = null;
+            tail = tail.previous;
 
         }
-
-        public void PrintList()
+        public void PrintListForward()
         {
             Node<T>? currentPlace = head;
             while (currentPlace != null)
@@ -78,20 +70,27 @@ namespace Singly_Linked_List
             }
         }
 
-
+        public void PrintListBackward()
+        {
+            Node<T>? currentPlace = tail;
+            while (currentPlace != null)
+            {
+                System.Console.WriteLine(currentPlace.data);
+                currentPlace = currentPlace.previous;
+            }
+        }
     }
-
-
 
     class Node<T>
     {
         public Node<T>? next;
+        public Node<T>? previous;
         public T data;
         public Node(T data)
         {
             this.data = data;
             this.next = null;
+            this.previous = null;
         }
     }
-
 }
