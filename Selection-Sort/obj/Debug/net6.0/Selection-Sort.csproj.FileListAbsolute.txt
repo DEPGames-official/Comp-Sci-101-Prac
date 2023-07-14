@@ -1,0 +1,15 @@
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/bin/Debug/net6.0/Selection-Sort
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/bin/Debug/net6.0/Selection-Sort.deps.json
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/bin/Debug/net6.0/Selection-Sort.runtimeconfig.json
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/bin/Debug/net6.0/Selection-Sort.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/bin/Debug/net6.0/ref/Selection-Sort.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/bin/Debug/net6.0/Selection-Sort.pdb
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/obj/Debug/net6.0/Selection-Sort.csproj.AssemblyReference.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/obj/Debug/net6.0/Selection-Sort.GeneratedMSBuildEditorConfig.editorconfig
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/obj/Debug/net6.0/Selection-Sort.AssemblyInfoInputs.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/obj/Debug/net6.0/Selection-Sort.AssemblyInfo.cs
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/obj/Debug/net6.0/Selection-Sort.csproj.CoreCompileInputs.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/obj/Debug/net6.0/Selection-Sort.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/obj/Debug/net6.0/ref/Selection-Sort.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/obj/Debug/net6.0/Selection-Sort.pdb
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Selection-Sort/obj/Debug/net6.0/Selection-Sort.genruntimeconfig.cache
