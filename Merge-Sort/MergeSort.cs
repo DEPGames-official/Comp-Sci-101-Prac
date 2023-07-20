@@ -9,6 +9,7 @@ namespace Merge_Sort
     {
         public int[] Sort(int[] arr)
         {
+            // Start sorting
             Process(arr);
             // Return sorted array
             return arr;

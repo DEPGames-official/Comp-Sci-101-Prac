@@ -1,0 +1,15 @@
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/bin/Debug/net6.0/Binary-Search-Tree
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/bin/Debug/net6.0/Binary-Search-Tree.deps.json
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/bin/Debug/net6.0/Binary-Search-Tree.runtimeconfig.json
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/bin/Debug/net6.0/Binary-Search-Tree.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/bin/Debug/net6.0/ref/Binary-Search-Tree.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/bin/Debug/net6.0/Binary-Search-Tree.pdb
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/obj/Debug/net6.0/Binary-Search-Tree.csproj.AssemblyReference.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/obj/Debug/net6.0/Binary-Search-Tree.GeneratedMSBuildEditorConfig.editorconfig
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/obj/Debug/net6.0/Binary-Search-Tree.AssemblyInfoInputs.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/obj/Debug/net6.0/Binary-Search-Tree.AssemblyInfo.cs
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/obj/Debug/net6.0/Binary-Search-Tree.csproj.CoreCompileInputs.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/obj/Debug/net6.0/Binary-Search-Tree.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/obj/Debug/net6.0/ref/Binary-Search-Tree.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/obj/Debug/net6.0/Binary-Search-Tree.pdb
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Binary-Search-Tree/obj/Debug/net6.0/Binary-Search-Tree.genruntimeconfig.cache
