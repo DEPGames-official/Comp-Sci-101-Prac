@@ -1,0 +1,15 @@
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/bin/Debug/net6.0/Undirected Graph
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/bin/Debug/net6.0/Undirected Graph.deps.json
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/bin/Debug/net6.0/Undirected Graph.runtimeconfig.json
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/bin/Debug/net6.0/Undirected Graph.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/bin/Debug/net6.0/ref/Undirected Graph.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/bin/Debug/net6.0/Undirected Graph.pdb
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/obj/Debug/net6.0/Undirected Graph.csproj.AssemblyReference.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/obj/Debug/net6.0/Undirected Graph.GeneratedMSBuildEditorConfig.editorconfig
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/obj/Debug/net6.0/Undirected Graph.AssemblyInfoInputs.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/obj/Debug/net6.0/Undirected Graph.AssemblyInfo.cs
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/obj/Debug/net6.0/Undirected Graph.csproj.CoreCompileInputs.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/obj/Debug/net6.0/Undirected Graph.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/obj/Debug/net6.0/ref/Undirected Graph.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/obj/Debug/net6.0/Undirected Graph.pdb
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Undirected Graph/obj/Debug/net6.0/Undirected Graph.genruntimeconfig.cache
