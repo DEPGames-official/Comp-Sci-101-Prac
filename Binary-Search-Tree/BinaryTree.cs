@@ -5,12 +5,33 @@ using System.Threading.Tasks;
 
 namespace Binary_Search_Tree
 {
+    /// <summary>
+    /// Left Node is &lt;= value and right Node &gt; value
+    /// </summary>
+    class Node
+    {
+        public int value;
+        public Node? leftNode;
+        public Node? rightNode;
+
+        public Node(int value)
+        {
+            this.value = value;
+        }
+
+    }
+
+    /// <summary>
+    /// Basic non self balancing Binary Tree with Search algorithm
+    /// </summary>
     public class BinaryTree
     {
-        Node? startNode = null;
+        Node? startNode;
+
         public void Add(int num)
         {
             Node? newNode = new Node(num);
+
             if (startNode == null)
             {
                 startNode = newNode;
@@ -19,7 +40,8 @@ namespace Binary_Search_Tree
             }
 
             Node currentNode = startNode;
-            while (currentNode != newNode)
+
+            while (currentNode.value != newNode.value)
             {
                 if (num <= currentNode.value)
                 {
@@ -42,12 +64,17 @@ namespace Binary_Search_Tree
 
         }
 
+        /// <summary>
+        /// Searches for a particular number in the Tree and returns True if found
+        /// </summary>
         public bool Search(int num)
         {
             Node currentNode = startNode;
+
             while (currentNode.value != num)
             {
                 System.Console.WriteLine(currentNode.value);
+
                 if (num < currentNode.value)
                 {
                     currentNode = currentNode.leftNode;
@@ -65,19 +92,5 @@ namespace Binary_Search_Tree
 
             return true;
         }
-    }
-
-    class Node
-    {
-        public int? value;
-        public Node? leftNode;
-        public Node? rightNode;
-        public Node(int value)
-        {
-            this.value = value;
-            this.leftNode = null;
-            this.rightNode = null;
-        }
-
     }
 }
