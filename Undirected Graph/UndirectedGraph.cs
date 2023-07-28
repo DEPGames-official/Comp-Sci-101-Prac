@@ -29,7 +29,7 @@ namespace Undirected_Graph
                 Node<T>? currentDataNode = SearchGraph(currentData);
                 Node<T>? relationshipDataNode = SearchGraph(relationshipData);
 
-                //Another check to make sure its not null
+                //Another check to make sure Nodes aren't null
                 if (currentDataNode != null && relationshipDataNode != null)
                 {
                     System.Console.WriteLine("Current data node found: " + currentDataNode.data);
