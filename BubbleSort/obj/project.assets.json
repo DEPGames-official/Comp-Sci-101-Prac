@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/BinarySearch/BinarySearch.csproj",
-      "projectName": "BinarySearch",
-      "projectPath": "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/BinarySearch/BinarySearch.csproj",
+      "projectUniqueName": "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/BubbleSort/BubbleSort.csproj",
+      "projectName": "BubbleSort",
+      "projectPath": "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/BubbleSort/BubbleSort.csproj",
       "packagesPath": "/home/xavs-tame/.nuget/packages/",
-      "outputPath": "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/BinarySearch/obj/",
+      "outputPath": "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/BubbleSort/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/xavs-tame/.nuget/NuGet/NuGet.Config"
