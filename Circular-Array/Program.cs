@@ -11,24 +11,14 @@
             array.Add(4);
             array.Add(6);
 
-            int[] available = array.PrintAvailable();
-
-            foreach (int number in available)
-            {
-                System.Console.WriteLine(number);
-            }
+            array.PrintArr();
 
             array.Remove();
             array.Remove();
             array.Remove();
             array.Remove();
 
-            available = array.PrintAvailable();
-
-            foreach (int number in available)
-            {
-                System.Console.WriteLine(number);
-            }
+            array.PrintArr();
         }
     }
 }

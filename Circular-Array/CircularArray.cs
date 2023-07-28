@@ -6,36 +6,47 @@ using System.Threading.Tasks;
 
 namespace Circular_Array
 {
+    /// <summary>
+    /// Circular array with basic functions
+    /// </summary>
     public class CircularArray<T>
     {
-        T[] array;
+        T[] arr;
         int head;
         int tail;
 
         public CircularArray(int size)
         {
-            array = new T[size];
+            arr = new T[size];
             head = 0;
             tail = 0;
         }
 
+        //Adds to end of Array
         public void Add(T value)
         {
-            array[tail] = value;
-            tail = (tail + 1) % array.Length;
+            arr[tail] = value;
+            tail = (tail + 1) % arr.Length;
         }
 
+        //Removes at front of array
         public T Remove()
         {
-            var type = array[head];
-            array[head] = default(T);
-            head = (head + 1) % array.Length;
+            T type = arr[head];
+
+            arr[head] = default(T);
+            head = (head + 1) % arr.Length;
+
             return type;
         }
 
-        public T[] PrintAvailable()
+        //Prints entire array regardless of head and tail position
+        public void PrintArr()
         {
-            return array;
+            foreach (T num in arr)
+            {
+                System.Console.WriteLine(num);
+            }
         }
     }
 }
