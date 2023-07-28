@@ -1,4 +1,4 @@
-﻿namespace Binary_Search_Tree
+﻿namespace BinarySearchTree
 {
     class Program
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Binary_Search_Tree
+namespace BinarySearchTree
 {
     /// <summary>
     /// Left Node is &lt;= value and right Node &gt; value
