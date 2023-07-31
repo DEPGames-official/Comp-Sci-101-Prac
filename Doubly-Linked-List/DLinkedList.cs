@@ -6,40 +6,62 @@ using System.Threading.Tasks;
 
 namespace Doubly_Linked_List
 {
+    class Node<T>
+    {
+        public Node<T>? next;
+        public Node<T>? previous;
+        public T data;
+
+        public Node(T data)
+        {
+            this.data = data;
+        }
+    }
+
+    /// <summary>
+    /// Doubly Linked List with basic functions
+    /// </summary>
     public class DLinkedList<T>
     {
         Node<T>? head = null;
         Node<T>? tail = null;
 
-        public void AddBeginning(T data)
+        //Inserts at front of list
+        public void InsertFront(T data)
         {
             Node<T> newNode = new Node<T>(data);
 
             if (head == null)
             {
-                this.head = newNode;
+                head = newNode;
                 tail = newNode;
+
                 return;
             }
 
+            //Changes pointers to maintain the doubly linked list's structure
             head.previous = newNode;
-            newNode.next = this.head;
-            this.head = newNode;
+            newNode.next = head;
+
+            head = newNode;
 
 
 
         }
 
-        public void AddEnd(T data)
+        //Inserts at back of list
+        public void InsertBack(T data)
         {
             Node<T> newNode = new Node<T>(data);
 
             if (head == null)
             {
-                AddBeginning(data);
+                InsertFront(data);
+
                 return;
             }
 
+            //Changes pointers to maintain the doubly linked list's structure
             newNode.previous = tail;
             tail.next = newNode;
 
@@ -47,50 +69,60 @@ namespace Doubly_Linked_List
 
         }
 
+        //Deletes at front of list
         public void DeleteFront()
         {
-            head.next.previous = null;
-            head = head.next;
+            if (head.next != null)
+            {
+                head.next.previous = null;
+                head = head.next;
+
+                return;
+            }
+
+            //Clears pointers if nothing in next node
+            head = null;
+            tail = null;
         }
 
+        //Deletes at back of list
         public void DeleteBack()
         {
-            tail.previous.next = null;
-            tail = tail.previous;
+            if (tail.previous != null)
+            {
+                tail.previous.next = null;
+                tail = tail.previous;
 
+                return;
+            }
+
+            //Clears pointers if nothing in previous node
+            tail = null;
+            head = null;
         }
+
+        //Prints list from front pointer to back pointer
         public void PrintListForward()
         {
             Node<T>? currentPlace = head;
+
             while (currentPlace != null)
             {
                 System.Console.WriteLine(currentPlace.data);
                 currentPlace = currentPlace.next;
-
             }
         }
 
+        //Prints list from back pointer to front pointer
         public void PrintListBackward()
         {
             Node<T>? currentPlace = tail;
+
             while (currentPlace != null)
             {
                 System.Console.WriteLine(currentPlace.data);
                 currentPlace = currentPlace.previous;
             }
-        }
-    }
-
-    class Node<T>
-    {
-        public Node<T>? next;
-        public Node<T>? previous;
-        public T data;
-        public Node(T data)
-        {
-            this.data = data;
-            this.next = null;
-            this.previous = null;
         }
     }
 }

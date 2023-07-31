@@ -6,13 +6,15 @@
         {
             DLinkedList<int> doublyList = new DLinkedList<int>();
 
-            doublyList.AddEnd(34);
-            doublyList.AddBeginning(5);
-            doublyList.AddBeginning(10);
-            doublyList.AddBeginning(15);
-            doublyList.DeleteBack();
-            doublyList.AddBeginning(2);
-            doublyList.AddBeginning(8);
+            doublyList.InsertBack(34);
+            //doublyList.InsertFront(5);
+            //doublyList.InsertFront(10);
+            //doublyList.InsertFront(15);
+            //doublyList.DeleteBack();
+            //doublyList.InsertFront(2);
+            //doublyList.InsertFront(8);
+            doublyList.DeleteFront();
+            doublyList.InsertBack(5);
 
             doublyList.PrintListForward();
 
