@@ -1,0 +1,15 @@
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/bin/Debug/net6.0/CircularArray
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/bin/Debug/net6.0/CircularArray.deps.json
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/bin/Debug/net6.0/CircularArray.runtimeconfig.json
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/bin/Debug/net6.0/CircularArray.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/bin/Debug/net6.0/ref/CircularArray.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/bin/Debug/net6.0/CircularArray.pdb
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/obj/Debug/net6.0/CircularArray.csproj.AssemblyReference.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/obj/Debug/net6.0/CircularArray.GeneratedMSBuildEditorConfig.editorconfig
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/obj/Debug/net6.0/CircularArray.AssemblyInfoInputs.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/obj/Debug/net6.0/CircularArray.AssemblyInfo.cs
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/obj/Debug/net6.0/CircularArray.csproj.CoreCompileInputs.cache
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/obj/Debug/net6.0/CircularArray.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/obj/Debug/net6.0/ref/CircularArray.dll
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/obj/Debug/net6.0/CircularArray.pdb
+/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/obj/Debug/net6.0/CircularArray.genruntimeconfig.cache

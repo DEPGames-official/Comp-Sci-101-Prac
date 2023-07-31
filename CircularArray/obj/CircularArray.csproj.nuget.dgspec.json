@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Circular-Array/Circular-Array.csproj": {}
+    "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/CircularArray.csproj": {}
   },
   "projects": {
-    "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Circular-Array/Circular-Array.csproj": {
+    "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/CircularArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Circular-Array/Circular-Array.csproj",
-        "projectName": "Circular-Array",
-        "projectPath": "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Circular-Array/Circular-Array.csproj",
+        "projectUniqueName": "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/CircularArray.csproj",
+        "projectName": "CircularArray",
+        "projectPath": "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/CircularArray.csproj",
         "packagesPath": "/home/xavs-tame/.nuget/packages/",
-        "outputPath": "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/Circular-Array/obj/",
+        "outputPath": "/4TB/CodingProjects/AllCodingProjects/AllCodingProjects/Comp-Sci-101-Prac/CircularArray/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/xavs-tame/.nuget/NuGet/NuGet.Config"

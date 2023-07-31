@@ -22,14 +22,14 @@ namespace CircularArray
             tail = 0;
         }
 
-        //Adds to end of Array
-        public void Add(T value)
+        //Inserts element to end of Array
+        public void Insert(T value)
         {
             arr[tail] = value;
             tail = (tail + 1) % arr.Length;
         }
 
-        //Removes at front of array
+        //Removes element at front of array
         public T Remove()
         {
             T type = arr[head];
@@ -39,12 +39,19 @@ namespace CircularArray
             return type;
         }
 
-        //Prints entire array regardless of head and tail position
+        //Print all elements of array from head
         public void PrintArr()
         {
-            foreach (T num in arr)
+
+            int current = head;
+            int count = 0;
+
+            while (count < arr.Length - 1)
             {
-                System.Console.WriteLine(num);
+                System.Console.WriteLine(arr[current]);
+
+                current = (current + 1) % arr.Length;
+                count++;
             }
         }
     }
