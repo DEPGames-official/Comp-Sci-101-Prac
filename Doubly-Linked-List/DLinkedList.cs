@@ -10,7 +10,7 @@ namespace Doubly_Linked_List
     {
         public Node<T>? next;
         public Node<T>? previous;
-        public T data;
+        public T data { get; }
 
         public Node(T data)
         {
