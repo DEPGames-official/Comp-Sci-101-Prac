@@ -5,6 +5,9 @@ using System.Threading.Tasks;
 
 namespace SelectionSort
 {
+    /// <summary>
+    /// Represents Selection Sort Algorithm
+    /// </summary>
     public class SelectionSort
     {
         public void Sort(int[] arr)
