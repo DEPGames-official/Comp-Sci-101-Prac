@@ -13,7 +13,7 @@
             graph.AddNew("Potato");
             graph.AddNew("Candice");
             graph.AddNew("Dylan");
-            graph.AddNew("Xavier");
+            graph.AddNew("Raphael");
             graph.AddNew("Sean");
             graph.AddNew("Louis");
             graph.AddNew("Mieka");
@@ -28,11 +28,11 @@
 
             graph.AddExistRelationship("Mieka", "Sean");
 
-            graph.AddExistRelationship("Georgia", "Xavier");
+            graph.AddExistRelationship("Georgia", "Raphael");
 
             graph.AddExistRelationship("Louis", "Dylan");
 
-            //graph.PrintNodeValues();
+            graph.PrintNodeValues();
         }
     }
 }
