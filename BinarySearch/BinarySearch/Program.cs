@@ -8,7 +8,7 @@
 
             BinarySearch sorted = new BinarySearch();
 
-            bool exists = sorted.Search(sortedNumbers, 54);
+            bool exists = sorted.Search(sortedNumbers, 17);
 
             System.Console.WriteLine(exists);
 

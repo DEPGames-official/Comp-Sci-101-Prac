@@ -11,24 +11,24 @@ namespace BinarySearch
             double right = arr.Length - 1;
             int total;
 
-            while (true)
+            while (left <= right)
             {
                 total = (int)Math.Truncate((left + right) / 2);
 
-                if (arr[total] < numberToSearch)
-                {
-                    left = total + 1;
-                }
-                else if (arr[total] > numberToSearch)
-                {
-                    right = total - 1;
-                }
-                else
+                if (arr[total] == numberToSearch)
                 {
                     return true;
                 }
-
+                else if (arr[total] < numberToSearch)
+                {
+                    left = total + 1;
+                }
+                else
+                {
+                    right = total - 1;
+                }
             }
+            return false;
         }
     }
 }
